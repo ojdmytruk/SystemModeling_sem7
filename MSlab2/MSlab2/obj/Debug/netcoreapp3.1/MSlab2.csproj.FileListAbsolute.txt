@@ -1,0 +1,13 @@
+C:\Users\teraz\source\repos\MSlab2\MSlab2\bin\Debug\netcoreapp3.1\MSlab2.exe
+C:\Users\teraz\source\repos\MSlab2\MSlab2\bin\Debug\netcoreapp3.1\MSlab2.deps.json
+C:\Users\teraz\source\repos\MSlab2\MSlab2\bin\Debug\netcoreapp3.1\MSlab2.runtimeconfig.json
+C:\Users\teraz\source\repos\MSlab2\MSlab2\bin\Debug\netcoreapp3.1\MSlab2.runtimeconfig.dev.json
+C:\Users\teraz\source\repos\MSlab2\MSlab2\bin\Debug\netcoreapp3.1\MSlab2.dll
+C:\Users\teraz\source\repos\MSlab2\MSlab2\bin\Debug\netcoreapp3.1\MSlab2.pdb
+C:\Users\teraz\source\repos\MSlab2\MSlab2\obj\Debug\netcoreapp3.1\MSlab2.csprojAssemblyReference.cache
+C:\Users\teraz\source\repos\MSlab2\MSlab2\obj\Debug\netcoreapp3.1\MSlab2.AssemblyInfoInputs.cache
+C:\Users\teraz\source\repos\MSlab2\MSlab2\obj\Debug\netcoreapp3.1\MSlab2.AssemblyInfo.cs
+C:\Users\teraz\source\repos\MSlab2\MSlab2\obj\Debug\netcoreapp3.1\MSlab2.csproj.CoreCompileInputs.cache
+C:\Users\teraz\source\repos\MSlab2\MSlab2\obj\Debug\netcoreapp3.1\MSlab2.dll
+C:\Users\teraz\source\repos\MSlab2\MSlab2\obj\Debug\netcoreapp3.1\MSlab2.pdb
+C:\Users\teraz\source\repos\MSlab2\MSlab2\obj\Debug\netcoreapp3.1\MSlab2.genruntimeconfig.cache
