@@ -82,9 +82,9 @@ namespace MSlab2
                 Console.WriteLine("VERIFICATION");
                 Console.WriteLine("{0,6}|{1,6}|{2,4}|{3,7}|{4,9}|{5,7}|{6,22}|{7,22}|{8,22}|{9,22}", "delay0", "delay1", "maxQ", "created", "processed", "failure", "Ravg", "Qavg", "Lavg", "probability");
             }
-            Ravg = averageDevice / 1000; //середнє завантаження
+            Ravg = averageDevice / tnext; //середнє завантаження
             Qavg = waitTime / numProcess; //середній час очікування
-            Lavg = waitTime / 1000;//середня довжина черги
+            Lavg = waitTime / tnext;//середня довжина черги
             probability = Convert.ToDouble(failure) / Convert.ToDouble(numCreate);//ймовірність відмови
             Console.WriteLine("{0,6}|{1,6}|{2,4}|{3,7}|{4,9}|{5,7}|{6,22}|{7,22}|{8,22}|{9,22}", delayCreate, delayProcess, maxqueue, numCreate, numProcess, failure, Ravg, Qavg, Lavg, probability);
             
