@@ -1,0 +1,13 @@
+C:\Users\teraz\source\repos\MSlab5\MSlab5\bin\Debug\netcoreapp3.1\MSlab5.exe
+C:\Users\teraz\source\repos\MSlab5\MSlab5\bin\Debug\netcoreapp3.1\MSlab5.deps.json
+C:\Users\teraz\source\repos\MSlab5\MSlab5\bin\Debug\netcoreapp3.1\MSlab5.runtimeconfig.json
+C:\Users\teraz\source\repos\MSlab5\MSlab5\bin\Debug\netcoreapp3.1\MSlab5.runtimeconfig.dev.json
+C:\Users\teraz\source\repos\MSlab5\MSlab5\bin\Debug\netcoreapp3.1\MSlab5.dll
+C:\Users\teraz\source\repos\MSlab5\MSlab5\bin\Debug\netcoreapp3.1\MSlab5.pdb
+C:\Users\teraz\source\repos\MSlab5\MSlab5\obj\Debug\netcoreapp3.1\MSlab5.csprojAssemblyReference.cache
+C:\Users\teraz\source\repos\MSlab5\MSlab5\obj\Debug\netcoreapp3.1\MSlab5.AssemblyInfoInputs.cache
+C:\Users\teraz\source\repos\MSlab5\MSlab5\obj\Debug\netcoreapp3.1\MSlab5.AssemblyInfo.cs
+C:\Users\teraz\source\repos\MSlab5\MSlab5\obj\Debug\netcoreapp3.1\MSlab5.csproj.CoreCompileInputs.cache
+C:\Users\teraz\source\repos\MSlab5\MSlab5\obj\Debug\netcoreapp3.1\MSlab5.dll
+C:\Users\teraz\source\repos\MSlab5\MSlab5\obj\Debug\netcoreapp3.1\MSlab5.pdb
+C:\Users\teraz\source\repos\MSlab5\MSlab5\obj\Debug\netcoreapp3.1\MSlab5.genruntimeconfig.cache
