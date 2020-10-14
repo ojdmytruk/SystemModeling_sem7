@@ -1,0 +1,13 @@
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\obj\Debug\netcoreapp3.1\MSlab4AllinOne.csprojAssemblyReference.cache
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\obj\Debug\netcoreapp3.1\MSlab4AllinOne.AssemblyInfoInputs.cache
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\obj\Debug\netcoreapp3.1\MSlab4AllinOne.AssemblyInfo.cs
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\obj\Debug\netcoreapp3.1\MSlab4AllinOne.csproj.CoreCompileInputs.cache
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\bin\Debug\netcoreapp3.1\MSlab4AllinOne.exe
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\bin\Debug\netcoreapp3.1\MSlab4AllinOne.deps.json
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\bin\Debug\netcoreapp3.1\MSlab4AllinOne.runtimeconfig.json
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\bin\Debug\netcoreapp3.1\MSlab4AllinOne.runtimeconfig.dev.json
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\bin\Debug\netcoreapp3.1\MSlab4AllinOne.dll
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\bin\Debug\netcoreapp3.1\MSlab4AllinOne.pdb
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\obj\Debug\netcoreapp3.1\MSlab4AllinOne.dll
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\obj\Debug\netcoreapp3.1\MSlab4AllinOne.pdb
+C:\Users\teraz\source\repos\MSlab4\MSlab4AllinOne\obj\Debug\netcoreapp3.1\MSlab4AllinOne.genruntimeconfig.cache
