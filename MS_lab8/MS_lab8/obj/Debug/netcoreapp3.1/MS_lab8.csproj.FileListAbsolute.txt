@@ -1,0 +1,13 @@
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\bin\Debug\netcoreapp3.1\MS_lab8.exe
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\bin\Debug\netcoreapp3.1\MS_lab8.deps.json
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\bin\Debug\netcoreapp3.1\MS_lab8.runtimeconfig.json
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\bin\Debug\netcoreapp3.1\MS_lab8.runtimeconfig.dev.json
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\bin\Debug\netcoreapp3.1\MS_lab8.dll
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\bin\Debug\netcoreapp3.1\MS_lab8.pdb
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\obj\Debug\netcoreapp3.1\MS_lab8.csprojAssemblyReference.cache
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\obj\Debug\netcoreapp3.1\MS_lab8.AssemblyInfoInputs.cache
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\obj\Debug\netcoreapp3.1\MS_lab8.AssemblyInfo.cs
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\obj\Debug\netcoreapp3.1\MS_lab8.csproj.CoreCompileInputs.cache
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\obj\Debug\netcoreapp3.1\MS_lab8.dll
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\obj\Debug\netcoreapp3.1\MS_lab8.pdb
+C:\Users\teraz\source\repos\MS_lab8\MS_lab8\obj\Debug\netcoreapp3.1\MS_lab8.genruntimeconfig.cache
